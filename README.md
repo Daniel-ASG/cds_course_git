@@ -1,2 +1,2 @@
-# Curso de Git
-Este repositório foi criado para hospedar o esqueleto do projeto que será utilizado para explicar e ensinar o uso básico do Git dentro da Comunidade DS
+# Git course
+This repository was created to host the structure of the project that will be used to explain and teach the basic use of Git within within the Comunidade DS.
